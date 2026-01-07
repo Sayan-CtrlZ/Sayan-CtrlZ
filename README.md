@@ -15,7 +15,7 @@ Full-stack Python developer working with Flask and FastAPI, building REST APIs a
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sayan-CtrlZ&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
-### ✍️ Random Dev Quote
+### ✍️ Uncommented Thoughts
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
