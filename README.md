@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack Python developer working with Flask and FastAPI, building REST APIs and using AWS. Currently learning DSA in Python, mathematics, and machine learning, with experience in business data analytics.
+## Full-stack Python developer working with Flask and FastAPI, building REST APIs and using AWS. Currently learning DSA in Python, mathematics, and machine learning, with experience in business data analytics.
 
 <br/>
 <br/>
