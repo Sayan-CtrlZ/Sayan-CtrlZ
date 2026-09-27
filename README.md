@@ -17,7 +17,7 @@
   <a href="mailto:officialsayan36@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
-
+---
 
 ### 🧑‍💻 About Me
 
@@ -32,7 +32,8 @@ I enjoy working across the stack — from **data and ML pipelines to backend ser
 🔭 **Currently exploring:** AI Agents • RAG • LLM Systems • ML • Backend Architecture • Data Engineering
 
 
-
+---
+<br>
 
 ### 🪐 Tech Orbit
 
@@ -99,6 +100,11 @@ I enjoy working across the stack — from **data and ML pipelines to backend ser
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 
+<br>
+
+---
+
+<br>
 
 ### 📊 GitHub Stats
 
@@ -111,14 +117,25 @@ I enjoy working across the stack — from **data and ML pipelines to backend ser
   <img src="https://streak-stats.demolab.com/?user=Sayan-CtrlZ&theme=dark&hide_border=false" />
 </p>
 
+<br>
 
+
+<br>
+
+
+<br>
 
 ### 🏆 GitHub Trophies
-
+<br>
 <p align="center">
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Sayan-CtrlZ&theme=dark" />
 </p>
 
+<br>
+
+
+
+<br>
 
 ### ✍️ Dev Quote
 
