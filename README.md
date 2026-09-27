@@ -27,7 +27,7 @@ I’m Sayan **Data Science & AI student at IIT Madras** and an **AI/ML & Backend
 
 I work with **Python, FastAPI, REST APIs, Machine Learning, LLMs, RAG, and databases**, with a growing interest in **AI agents, LLM orchestration, and scalable backend architectures**.
 
-I enjoy working across the stack — from **data and ML pipelines to backend services and AI-powered applications** — and turning research ideas into practical, production-oriented systems.
+I enjoy working across the stack, from **data and ML pipelines to backend services and AI-powered applications** and turning research ideas into practical, production-oriented systems.
 
 🔭 **Currently exploring:** AI Agents • RAG • LLM Systems • ML • Backend Architecture • Data Engineering
 
