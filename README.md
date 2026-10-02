@@ -147,10 +147,4 @@ I enjoy working across the stack, from **data and ML pipelines to backend servic
 
 
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Sayan-CtrlZ&icon=5&color=0" alt="profile views" />
-  </a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=100&width=80&section=footer" />
